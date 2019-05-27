@@ -6,9 +6,9 @@ by Constantinos M. Demetriadis
 
 - Less Hassle to Setup
 - Debugging Option
-- Window Type Seletion (`PopUp` or `PopUnder`)
+- Window Type Seletion (`Pop Up` or `Pop Under`)
 - Window Parameter Setup (`Width`, `Height`, `Name`, `URL`)
-- Set `ExpireFirst` & `ExpireAll` variables
+- Set `Second Play ` & `Expire All` variables
 - Dynamic Cookie Naming (no more spelling mistakes)
 
 ## Setting up the code
@@ -36,7 +36,7 @@ Set the delay time (in hours) for the second window to show.
 
 ### Step 4:
 
-`ExpireFirst`: Set the delay time (in hours) for the script to reset and start over again.
+Set the delay time (in hours) for the script to reset and start over again.
 
 `ExpireAllInHours`: The amount of hours which must pass before reseting the complete script, and let it run all over again.
 	
